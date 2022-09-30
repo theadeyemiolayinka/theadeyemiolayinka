@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hello World! 👋, I'm Olayinka</h1>
-<h3 align="center">I'm a passionate 15 y/o Fullstack developer. I love and enjoy making magic with code. I'm also interested in Physics and Engineering.</h3>
+<h3 align="center">I'm a 15 y/o Full Stack engineer, I love and enjoy making magic with code. I'm also interested in Physics and Engineering.</h3>
 
 - 🌱 I’m currently learning **Web3, AWS, ML**
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Flutter, React, PHP, Java**
 
-- 📫 How to reach me **olayinkaadeyemi343@gmail.com**
+- 📫 How to reach me **olayinkaapps@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
