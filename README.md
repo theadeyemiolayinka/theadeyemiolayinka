@@ -63,7 +63,7 @@ I'm a 15 y/o FullStack Engineer
 
 <a href="http://www.github.com/theadeyemiolayinka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theadeyemiolayinka&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/theadeyemiolayinka"><img src="[https://activity-graph.herokuapp.com/graph?username=theadeyemiolayinka&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph](https://github-readme-activity-graph.cyclic.app/graph?username=theadeyemiolayinka&bg_color=1c1917&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true)" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/theadeyemiolayinka"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=theadeyemiolayinka&bg_color=1c1917&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
 
