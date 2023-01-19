@@ -59,11 +59,11 @@ I'm a 15 y/o FullStack Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/theadeyemiolayinka"><img src="https://github-readme-stats.vercel.app/api?username=theadeyemiolayinka&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="theadeyemiolayinka's GitHub stats" /></a>
+<a href="http://www.github.com/theadeyemiolayinka"><img src="https://github-readme-stats.vercel.app/api?username=theadeyemiolayinka&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true&foo=bar01" alt="theadeyemiolayinka's GitHub stats" /></a>
 
 <a href="http://www.github.com/theadeyemiolayinka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theadeyemiolayinka&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&" /></a>
 
-<a href="http://www.github.com/theadeyemiolayinka"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=theadeyemiolayinka&bg_color=1c1917&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/theadeyemiolayinka"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=theadeyemiolayinka&bg_color=1c1917&color=ffffff&line=9e4c98&point=ffffff&area=true&hide_border=true&foo=bar01" alt="GitHub Commits Graph" /></a>
 
 ### Support Me
 
