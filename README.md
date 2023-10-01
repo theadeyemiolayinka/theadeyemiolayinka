@@ -21,10 +21,10 @@ I'm a 16 y/o FullStack Engineer
 ------------------
 
 * 🌍  I'm based in Lagos
-* 🖥️  See my portfolio at [https://theadeyemiolayinka.netlify.app](http://theadeyemiolayinka.netlify.app)
-* ✉️  You can contact me at [olayinkaapps@gmail.com](mailto:olayinkaapps@gmail.com)
+* 🖥️  See my portfolio at [https://theadeyemiolayinka.com](http://theadeyemiolayinka.com)
+* ✉️  You can contact me at [hi@theadeyemiolayinka.com](mailto:hi@theadeyemiolayinka.com)
 * 🧠  I'm learning Web3 and AWS
-* 🤝  I'm open to collaborating on Laravel, Django, React and Flutter Projects
+* 🤝  I'm open to collaborating on Laravel, React and Flutter Projects
 
 ### Skills
 
