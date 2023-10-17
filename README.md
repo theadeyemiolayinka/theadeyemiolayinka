@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center" >Hello World! 👋 I am Olayinka Adeyemi </h1>
 
-I'm a 16 y/o FullStack Engineer
+I'm a Gen-Z FullStack Engineer
 ------------------
 
 * 🌍  I'm based in Lagos
