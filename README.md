@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 <h1 align="center" >Hello World! 👋 I am Olayinka Adeyemi </h1>
 
-I'm a Gen-Z FullStack Engineer
+FullStack Web, Mobile and Systems Engineer
 ------------------
 
 * 🌍  I'm based in Lagos
 * 🖥️  See my portfolio at [https://theadeyemiolayinka.com](http://theadeyemiolayinka.com)
 * ✉️  You can contact me at [hi@theadeyemiolayinka.com](mailto:hi@theadeyemiolayinka.com)
-* 🧠  I'm learning Web3 and AWS
+* 🧠  I'm learning Web3
 * 🤝  I'm open to collaborating on Laravel, React and Flutter Projects
 
 ### Skills
